@@ -1,0 +1,10 @@
+version: "3"
+services:
+  seb:
+    image: seb:latest
+    build: .
+    container_name: seb
+    restart: unless-stopped
+    ports:
+      # DO NOT CHANGE 3000!
+      - your port here:3000
