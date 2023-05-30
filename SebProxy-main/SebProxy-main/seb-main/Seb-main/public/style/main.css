@@ -14,6 +14,7 @@
   --input-border-color: #ff5500;
   --input-border-size: 1.3px;
   --navbar-logo-filter: none;
+  --background-image: url("https://img1.picmix.com/output/stamp/normal/4/1/7/9/1699714_787dc.gif");
 }
 
 ::-webkit-input-placeholder {
