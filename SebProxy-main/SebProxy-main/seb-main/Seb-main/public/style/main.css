@@ -2,16 +2,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&display=swap");
 
 :root {
-  --background-primary: #6E2111;
-  --navbar-color: #4F190D;
+  --background-primary: black;
+  --navbar-color: black;
   --navbar-height: 60px;
   --navbar-text-color: #FF6847;
   --navbar-link-color: #924c4c;
   --navbar-font: "Roboto";
   --input-text-color: #e0def4;
   --input-placeholder-color: white;
-  --input-background-color: #461212;
-  --input-border-color: #ff5500;
+  --input-background-color: black;
+  --input-border-color: white;
   --input-border-size: 1.3px;
   --navbar-logo-filter: none;
   --background-image: url("https://img1.picmix.com/output/stamp/normal/4/1/7/9/1699714_787dc.gif");
