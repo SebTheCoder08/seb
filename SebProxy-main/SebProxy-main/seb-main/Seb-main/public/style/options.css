@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
 
 :root {
-	--background-primary: #191724;
+	--background-primary: black;
 	--sidebar-color: #191724;
 	--sidebar-text-color: #e0def4;
 	--text-color-primary: #e0def4;
@@ -379,7 +379,7 @@ ul li {
 }
 
 .custom-dropdown select {
-	background-color: rgb(221, 103, 103);
+	background-color: rgb(34, 34, 34);
 	color: var(--text-color-primary);
 	font-size: inherit;
 	padding: .5em;
